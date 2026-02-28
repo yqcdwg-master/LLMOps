@@ -14,3 +14,5 @@ wheels/
 tmp/
 
 .idea/
+
+.env
