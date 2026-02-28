@@ -12,3 +12,5 @@ wheels/
 .claude
 
 tmp/
+
+.idea
